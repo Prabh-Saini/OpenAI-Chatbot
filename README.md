@@ -1,3 +1,5 @@
+less than a month after developing this, openai created chatgpt which is vastly superior than my little script so this is now archived
+
 # OpenAI Chatbot
 This script is acting as a simple 'wrapper' for OpenAPI. It allows a user to communicate with OpenAI's artifical intelligence api, which is an extraodinarily phenomonal piece of technology which can often replicate texts of real people. Ask the AI questions like "how was your day?" or more complex questions like "whats the quadratic formula?". 
 # Up and Running
